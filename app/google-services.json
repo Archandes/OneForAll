@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317881814269",
+    "firebase_url": "https://one-for-all-7ed19.firebaseio.com",
+    "project_id": "one-for-all-7ed19",
+    "storage_bucket": "one-for-all-7ed19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317881814269:android:d61c5caef72b39fdd04294",
+        "android_client_info": {
+          "package_name": "com.teknokratmobile2019ti17b17313024oneforall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317881814269-hauqeni51jt55bhqa0933t3bqkg52nf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teknokratmobile2019ti17b17313024oneforall",
+            "certificate_hash": "f3723030cf5c7a25d8292cd32a3aa57fd86e723e"
+          }
+        },
+        {
+          "client_id": "317881814269-e8vbl3e2tqq9tte4s829uk59uc0ds9nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbkoXYuvKwarxNgBrB_YTeL_wRI3PqI6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317881814269-e8vbl3e2tqq9tte4s829uk59uc0ds9nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
